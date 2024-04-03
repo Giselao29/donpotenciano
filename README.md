@@ -1,4 +1,4 @@
-! [] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Fcampo-sembrado-trigo&psig=AOvVaw2xpCRHviQQTd9XbyANLkrs&ust=1712254962242000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjY1_rUpoUDFQAAAAAdAAAAABAE) <br>
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 Don Ponciano se dedica a trabajar su campo, sembrando, cosechando y realizando otras tareas agrícolas típicas. Nos interesa hacer un seguimiento de sus finanzas.
 
