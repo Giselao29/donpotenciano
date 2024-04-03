@@ -1,4 +1,5 @@
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.freepik.es/foto-gratis/cosechadora-campo_29066451.htm?query=campo%20sembrado%20trigo#from_view=detail_alsolike)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](![Uploading image.png…]()
+)
 Don Ponciano se dedica a trabajar su campo, sembrando, cosechando y realizando otras tareas agrícolas típicas. Nos interesa hacer un seguimiento de sus finanzas.
 
 El tamaño total de su campo es de 15 hectáreas, actualmente tiene sembrado trigo en 10 de esas hectáreas y el resto lo tiene libre. Tiene 5000 pesos en la cuenta corriente del banco. 
