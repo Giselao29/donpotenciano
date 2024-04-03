@@ -1,3 +1,4 @@
+!https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Fcampo-sembrado-trigo&psig=AOvVaw2xpCRHviQQTd9XbyANLkrs&ust=1712254962242000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjY1_rUpoUDFQAAAAAdAAAAABAE
 Don Ponciano se dedica a trabajar su campo, sembrando, cosechando y realizando otras tareas agrícolas típicas. Nos interesa hacer un seguimiento de sus finanzas.
 
 El tamaño total de su campo es de 15 hectáreas, actualmente tiene sembrado trigo en 10 de esas hectáreas y el resto lo tiene libre. Tiene 5000 pesos en la cuenta corriente del banco. 
