@@ -1,4 +1,4 @@
-!(https://cdn.pixabay.com/photo/2015/02/18/16/10/wheat-640960_960_720.jpg)
+![](https://cdn.pixabay.com/photo/2015/02/18/16/10/wheat-640960_960_720.jpg)
 Don Ponciano se dedica a trabajar su campo, sembrando, cosechando y realizando otras tareas agrícolas típicas. Nos interesa hacer un seguimiento de sus finanzas.
 
 El tamaño total de su campo es de 15 hectáreas, actualmente tiene sembrado trigo en 10 de esas hectáreas y el resto lo tiene libre. Tiene 5000 pesos en la cuenta corriente del banco. 
