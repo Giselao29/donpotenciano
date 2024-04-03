@@ -1,4 +1,4 @@
-![campo](https://www.freepik.es/foto-gratis/cosechadora-campo_29066451.htm?query=campo%20sembrado%20trigo#from_view=detail_alsolike)
+![](https://www.freepik.es/foto-gratis/cosechadora-campo_29066451.htm?query=campo%20sembrado%20trigo#from_view=detail_alsolike)
 
 Don Ponciano se dedica a trabajar su campo, sembrando, cosechando y realizando otras tareas agrícolas típicas. Nos interesa hacer un seguimiento de sus finanzas.
 
