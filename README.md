@@ -9,7 +9,7 @@ Se contemplan las siguientes actividades agropecuarias:
 •	En épocas beneficiosas, Don Ponciano puede ampliar la superficie sembrada llevándola al máximo que le permite su campo pero manteniendo el mismo cultivo, ya que nunca mezcla diferentes cultivos. 
 •	El momento más esperado es cuando comienza una nueva temporada, que Don Ponciano cosecha lo que tenga sembrado, lo vende y vuelve a sembrar un nuevo cultivo en su campo. La superficie y el cultivo a sembrar puede ser diferente cada vez, pero siempre cosecha toda la superficie que tenga sembrada. El importe de la venta depende del precio del cultivo y su correspondiente rendimiento. 
 •	Todos los pagos, Don Ponciano los realiza con el dinero que tiene en el banco, donde cuenta con un descubierto ilimitado. También deposita allí todos sus ingresos.
-•	El costo de la semilla para sembrar se calcula por hectarea y no es el mismo siempre, sino que depende de qué cultivo se trate.
+•	El costo de la semilla para sembrar se calcula por hectarea y no es el mismo siempre, sino que depende de qué cultivo se trate.<br>
 
 Tenemos diferentes cultivos:
 
