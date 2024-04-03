@@ -6,9 +6,9 @@ Se contemplan las siguientes actividades agropecuarias:
 •	Se descubre que hay una plaga y Don Ponciano fumiga su campo. Consiste en aplicar un producto químico en toda la superficie del campo, esté sembrada o no. Su costo es de 10$ por hectárea independientemente del cultivo que haya.<br>
 •	Don Ponciano decide aplicar fertilizantes buscando que su cultivo tenga un mejor rendimiento. Se aplica sobre la parte sembrada del campo, a un costo por hectárea que se informa al momento de aplicarlo. El rendimiento del cultivo varía dependiendo de qué cultivo se trate. <br>
 •	Debido a una gran sequía, Don Ponciano resiembra su campo con un nuevo cultivo, manteniendo la misma superficie sembrada. <br>
-•	En épocas beneficiosas, Don Ponciano puede ampliar la superficie sembrada llevándola al máximo que le permite su campo pero manteniendo el mismo cultivo, ya que nunca mezcla diferentes cultivos. 
-•	El momento más esperado es cuando comienza una nueva temporada, que Don Ponciano cosecha lo que tenga sembrado, lo vende y vuelve a sembrar un nuevo cultivo en su campo. La superficie y el cultivo a sembrar puede ser diferente cada vez, pero siempre cosecha toda la superficie que tenga sembrada. El importe de la venta depende del precio del cultivo y su correspondiente rendimiento. 
-•	Todos los pagos, Don Ponciano los realiza con el dinero que tiene en el banco, donde cuenta con un descubierto ilimitado. También deposita allí todos sus ingresos.
+•	En épocas beneficiosas, Don Ponciano puede ampliar la superficie sembrada llevándola al máximo que le permite su campo pero manteniendo el mismo cultivo, ya que nunca mezcla diferentes cultivos. <br>
+•	El momento más esperado es cuando comienza una nueva temporada, que Don Ponciano cosecha lo que tenga sembrado, lo vende y vuelve a sembrar un nuevo cultivo en su campo. La superficie y el cultivo a sembrar puede ser diferente cada vez, pero siempre cosecha toda la superficie que tenga sembrada. El importe de la venta depende del precio del cultivo y su correspondiente rendimiento. <br>
+•	Todos los pagos, Don Ponciano los realiza con el dinero que tiene en el banco, donde cuenta con un descubierto ilimitado. También deposita allí todos sus ingresos.<br>
 •	El costo de la semilla para sembrar se calcula por hectarea y no es el mismo siempre, sino que depende de qué cultivo se trate.<br>
 
 Tenemos diferentes cultivos:
